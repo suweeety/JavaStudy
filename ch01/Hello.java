@@ -13,7 +13,7 @@ public class Hello { // 클래스는 동작메서드를 모아 놓는 객체
 		// main 쓰고 컨트롤 스페이스 누르면 자동완성
 		String a = "";
 		a = "a";
-		System.out.println("안녕하세요. 자바지옥에 오신걸 환영합니다.");
+		
 		System.out.println("안녕하세요. 자바지옥에 오신걸 환영합니다.");
 		// sysout -> 컨트롤 스페이스를 누르면 자동완성
 
